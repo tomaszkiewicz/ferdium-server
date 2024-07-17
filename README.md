@@ -2,6 +2,8 @@
     <img src="./logo.png" alt="" width="300"/>
 </p>
 
+This is a fork to force update of the docker image.
+
 # Server
   [![Docker Build and Publish](https://github.com/ferdium/ferdium-server/actions/workflows/docker.yml/badge.svg)](https://github.com/ferdium/ferdium-server/actions/workflows/docker.yml)
 
